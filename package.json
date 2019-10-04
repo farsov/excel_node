@@ -1,0 +1,18 @@
+{
+  "name": "exceltopdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "awesome-unoconv": "^1.0.1",
+    "exceljs": "^3.0.0",
+    "libreoffice-convert": "^1.0.2",
+    "pdfmake": "^0.1.60",
+    "xlsx-populate": "^1.20.1"
+  }
+}
